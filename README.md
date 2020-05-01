@@ -1,16 +1,10 @@
 # NTOUCS Discording
 
 ## 群組連結
-<style>
-.blue {
-  color: blue;
-}
-</style>
 
-Hello, <span class="blue">World</span>
 
 + [**點我加入 Discord 群組**](https://discord.gg/VQ5Nty8)
-+ [這是分流](https://discord.gg/zdnrrug)
++ [**這是分流**](https://discord.gg/zdnrrug)
 
 ## 手機版操作教學
 
