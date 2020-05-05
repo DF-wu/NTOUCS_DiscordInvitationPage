@@ -6,6 +6,9 @@
 + [**點我加入 Discord 群組**](https://discord.gg/VQ5Nty8)
 + [**這是分流**](https://discord.gg/zdnrrug)
 
+> 沒有帳號的註冊完成以後再記得再來加一次喔
+
+
 ## 手機版操作教學
 
 ![](https://tinyurl.com/yap5vpp7)  
