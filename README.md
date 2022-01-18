@@ -16,9 +16,7 @@
 
 ## 手機版操作教學
 
-![](https://tinyurl.com/yap5vpp7)  
-![](https://tinyurl.com/ya5yyq7e)  
-![](https://tinyurl.com/yb5kr7ce)  
++ link掛了 待補
 
 ## 群組小規定
 1. 安安你好，首先改個暱稱吧，格式為學號空格姓名，改好之後會獲得身份組。
