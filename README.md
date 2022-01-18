@@ -3,7 +3,8 @@
 ## 群組連結
 
 + 邀請連結
-+ ![](https://i.imgur.com/HIXeEQp.png)
++ ![](https://i.imgur.com/4ParYGu.png)
+
 
 
 + [**點我加入 Discord 群組**](https://discord.gg/VQ5Nty8)
