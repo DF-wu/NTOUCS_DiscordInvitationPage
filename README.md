@@ -3,12 +3,12 @@
 ## 群組連結
 
 + 邀請連結
-+ ![](https://i.imgur.com/4ParYGu.png)
+  + ![](https://i.imgur.com/4ParYGu.png)
+  
++ [Link to github repo](https://github.com/DF-wu/NTOUCS_DiscordInvitationPage/tree/master)
 
++ [**點我加入 Discord 群組**](https://discord.gg/zdnrrug)
 
-
-+ [**點我加入 Discord 群組**](https://discord.gg/VQ5Nty8)
-+ [**這是分流**](https://discord.gg/zdnrrug)
 
 > 沒有帳號的註冊完成以後再記得再來加一次喔
 
